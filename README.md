@@ -17,18 +17,7 @@ The design is based on a **plant capacity of 80 tons/day** of total feed.
 
 ---
 
-## 🔬 Reaction Kinetics
 
-The rate law used is:
-
-\[
--r_A = k \cdot C_{\text{CO}_2} \cdot C_{\text{DIPA}}^2
-\]
-
-Where:  
-- \( r_A \): rate of reaction  
-- \( k \): reaction rate constant  
-- \( C_{\text{CO}_2} \), \( C_{\text{DIPA}} \): concentrations of CO₂ and DIPA respectively
 
 ---
 
