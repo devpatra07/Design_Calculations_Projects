@@ -23,8 +23,8 @@ The design is based on a **plant capacity of 80 tons/day** of total feed.
 
 ## 📂 Contents
 
-- `CSTR_Calculations.xlsx` — Step-by-step reactor sizing and residence time calculations for the CSTR.
-- `BubbleColumn_Calculations.xlsx` — Design details including gas flow rate, superficial velocity, and column dimensions for the Bubble Column Reactor.
+- `CSTR_Calculations.xlsx` — Step-by-step reactor sizing for the CSTR.
+- `BubbleColumn_Calculations.xlsx` — Design details including gas flow rate, superficial velocity, and  dimensions for the Bubble Column Reactor.
 - `README.md` — This file.
 
 ---
